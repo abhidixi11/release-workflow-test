@@ -1,1 +1,0 @@
-/* protocol2 header */
